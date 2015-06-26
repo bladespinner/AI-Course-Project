@@ -1,0 +1,9 @@
+D:\Projects\C#\AI\MihailGospodinov.WordPrediction\MihailGospodinov.WordPrediction\bin\Debug\MihailGospodinov.WordPrediction.dll.config
+D:\Projects\C#\AI\MihailGospodinov.WordPrediction\MihailGospodinov.WordPrediction\bin\Debug\MihailGospodinov.WordPrediction.dll
+D:\Projects\C#\AI\MihailGospodinov.WordPrediction\MihailGospodinov.WordPrediction\bin\Debug\MihailGospodinov.WordPrediction.pdb
+D:\Projects\C#\AI\MihailGospodinov.WordPrediction\MihailGospodinov.WordPrediction\bin\Debug\EntityFramework.dll
+D:\Projects\C#\AI\MihailGospodinov.WordPrediction\MihailGospodinov.WordPrediction\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\C#\AI\MihailGospodinov.WordPrediction\MihailGospodinov.WordPrediction\bin\Debug\EntityFramework.xml
+D:\Projects\C#\AI\MihailGospodinov.WordPrediction\MihailGospodinov.WordPrediction\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\C#\AI\MihailGospodinov.WordPrediction\MihailGospodinov.WordPrediction\obj\Debug\MihailGospodinov.WordPrediction.dll
+D:\Projects\C#\AI\MihailGospodinov.WordPrediction\MihailGospodinov.WordPrediction\obj\Debug\MihailGospodinov.WordPrediction.pdb
